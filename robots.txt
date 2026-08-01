@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-q1bk8a.inatogel71mde.cfd/sitemap.xml
